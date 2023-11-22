@@ -1,8 +1,0 @@
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\bin\Debug\ye.exe.config
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\bin\Debug\ye.exe
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\bin\Debug\ye.pdb
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\obj\Debug\ye.csprojResolveAssemblyReference.cache
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\obj\Debug\ye.Form1.resources
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\obj\Debug\ye.csproj.GenerateResource.Cache
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\obj\Debug\ye.exe
-D:\Năm ba hk1\Công nghệ .net\lab10\ye\ye\obj\Debug\ye.pdb
